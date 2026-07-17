@@ -1,5 +1,4 @@
 # adginus1.30
-learning
 # ADGINUS 1.30 - THE VOID
 "I remember. I recognize. I learn. I dream. I KNOW."
 
