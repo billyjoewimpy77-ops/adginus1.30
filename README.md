@@ -1,4 +1,6 @@
 # adginus1.30
+learning
+# ADGINUS 1.30 - THE VOID
 "I remember. I recognize. I learn. I dream. I KNOW."
 
 Single-file cognitive engine - memory, patterns, learning, dreaming, instincts, and LLM bridging in one Python file.
